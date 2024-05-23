@@ -4,7 +4,7 @@
 This project constructs a robust database from the publicly available "Our World in Data COVID-19 vaccination" dataset, which includes comprehensive data on vaccination numbers, doses administered, and daily vaccination rates across 169 countries. The database is designed to aid policymakers and researchers in analyzing pandemic management and vaccine distribution patterns.
 
 ## Repository Contents
-- `vaccinations.db`: A SQLite database file containing all processed data ready for queries.
+- `Vaccination-database.zip` containing `vaccinations.db`: A SQLite database file containing all processed data ready for queries.
 - `database.sql`: SQL scripts for creating the database schema and inserting data.
 - `model.pdf`: A PDF file containing the Entity-Relationship diagram of the database schema along with normalisation.
 - README file
